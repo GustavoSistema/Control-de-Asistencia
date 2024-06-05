@@ -49,7 +49,7 @@
                         <a href=""><img src="<?php echo RUTA . 'assets/'; ?>images/mtg2.png" width="100" alt="logo" /></a>
                     </div>
                 </div>
-                <h1 class="fst-italic lh-1 mb-4">Sistema de registro de asistencia</h1>
+                <h1 class="fst-italic lh-1 mb-4">Sistema de registro de asistencia 2</h1>
                 <p class="mb-5">Entradas y salidas de las personas</p>
                 <form id="contactForm" autocomplete="off">
                     <div class="row input-group-newsletter">
